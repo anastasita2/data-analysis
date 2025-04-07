@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit artifacts
+.streamlit/
+
+# OS junk
+.DS_Store
+
+# Data files
+*.csv
+*.zip
+*.xlsx
+*.sav
+
+# Lab files not tracked
+lab3/VHI_Files/
