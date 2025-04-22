@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit artifacts
+.streamlit/
+
+# OS junk
+.DS_Store
+
+# Data files
+*.csv
+*.zip
+*.xlsx
+*.sav
+*.txt
+# Lab files not tracked
+lab3/VHI_Files/
+lab_4/data/household_power_consumption.txt
